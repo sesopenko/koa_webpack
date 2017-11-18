@@ -1,10 +1,10 @@
 # About
-The goal of this project is to improve my own understanding the Koa web framework and the webpack build system.
+Fork this project for a base koa install with webpack
 
 # Requirements
-* Node.js ^8.9.1
-* `npm install webpack`
-* `npm install yarn`
+* Node.js 8: [https://nodejs.org](https://nodejs.org/)
+* webpack 3: `npm install -g webpack@^3.8.1`
+* yarn 1: `npm install -g yarn@^1.3.2`
 
 # Installation
 `yarn install`

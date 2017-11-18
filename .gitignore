@@ -1,0 +1,7 @@
+#ide ignores
+.idea
+.vscode
+
+#project ignores
+node_modules
+build
